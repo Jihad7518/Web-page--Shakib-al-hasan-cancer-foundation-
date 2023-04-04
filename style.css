@@ -29,3 +29,15 @@ html {
     align-items: center;
     margin: 0 8rem;
 }
+#wrapper .container nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 8rem;
+}
+
+#wrapper .container nav .logo{
+    width: 18rem;
+}
