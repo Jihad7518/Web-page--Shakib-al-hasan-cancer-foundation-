@@ -9,3 +9,15 @@ html {
   body {
     font-family: sans-serif;
 }
+#wrapper{
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: whitesmoke;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+}
