@@ -41,3 +41,9 @@ html {
 #wrapper .container nav .logo{
     width: 18rem;
 }
+
+#wrapper .container nav .logo:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
