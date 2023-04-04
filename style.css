@@ -47,3 +47,16 @@ html {
     transition: 1s;
 }
 
+ul > li{
+    font-size: 1.8rem;
+    opacity: 0.6;
+    list-style: none;
+    cursor: pointer;
+}
+ul > li:hover{
+    transform: scale(1.05);
+    transition: 0.8s;
+}
+
+
+
