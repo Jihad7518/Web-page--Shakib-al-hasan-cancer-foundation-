@@ -58,5 +58,21 @@ ul > li:hover{
     transition: 0.8s;
 }
 
+ul > li:nth-child(1){
+    color: #015912;
+    /* border-bottom: 2px solid #015912; */
+    opacity: 1;
+}
+.btn1{
+    padding: 1.2rem 2rem;
+    border: none;
+    background-color: #027319;
+    color: white;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+
+}
+
 
 
