@@ -110,3 +110,11 @@ main{
     object-fit: cover;
 }
 
+
+.pic:hover{
+    transform: scale(1.03);
+    transition: 0.5s;
+    filter: drop-shadow(0 0 10px #022a0a);
+}
+
+
