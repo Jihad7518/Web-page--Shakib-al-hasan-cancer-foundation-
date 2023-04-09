@@ -90,3 +90,11 @@ main{
     gap: 20rem;
 }
 
+.teamShaSec{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 4rem;
+}
+
