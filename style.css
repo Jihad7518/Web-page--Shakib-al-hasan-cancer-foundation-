@@ -117,4 +117,8 @@ main{
     filter: drop-shadow(0 0 10px #022a0a);
 }
 
-
+.heading{
+    font-size: 3.5rem;
+    margin-bottom: 1.5rem;
+    color: #027319;
+}
