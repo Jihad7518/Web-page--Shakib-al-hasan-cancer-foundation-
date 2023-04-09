@@ -122,3 +122,10 @@ main{
     margin-bottom: 1.5rem;
     color: #027319;
 }
+
+.para{
+    font-size: 2rem;
+    line-height: 2.8rem;
+    width: 80%;
+    opacity: 0.6;
+}
