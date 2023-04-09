@@ -103,3 +103,10 @@ main{
     width: 57rem;
     height: 34rem;
 }
+
+.pic{
+    border-radius: 20px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
