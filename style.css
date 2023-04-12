@@ -129,3 +129,12 @@ main{
     width: 80%;
     opacity: 0.6;
 }
+
+.founderSec{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30rem;
+}
+
