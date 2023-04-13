@@ -174,3 +174,10 @@ footer{
     gap: 2rem;
 }
 
+.anchor{
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #027319;
+    text-decoration: none;
+}
+
