@@ -165,3 +165,12 @@ footer{
     transform: scale(1.1);
     transition: 0.8s;
 }
+
+.footer-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
