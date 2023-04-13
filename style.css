@@ -198,3 +198,13 @@ footer{
     font-size: 1.4rem;
 }
 
+.address{
+    margin-bottom: 2rem;
+}
+
+.address-text{
+    margin-top: 1.5rem;
+    width: 50%;
+    line-height: 2.7rem;
+    font-size: 1.6rem;
+}
