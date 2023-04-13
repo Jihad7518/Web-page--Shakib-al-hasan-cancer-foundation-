@@ -191,3 +191,10 @@ footer{
     opacity: 1;
 }
 
+.copyright-div p{
+    margin-bottom: 0.7rem;
+}
+#copywright{
+    font-size: 1.4rem;
+}
+
