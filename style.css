@@ -214,4 +214,12 @@ footer{
     font-size: 1.6rem;
 }
 
+.fourth-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
 
