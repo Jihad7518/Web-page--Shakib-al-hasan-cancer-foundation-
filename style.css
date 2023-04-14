@@ -9,6 +9,7 @@ html {
   body {
     font-family: sans-serif;
 }
+  
 #wrapper{
     height: 100vh;
     width: 100vw;
@@ -21,6 +22,7 @@ html {
     height: 100%;
     width: 100%;
 }
+
 #wrapper .container nav{
     padding: 2rem;
     display: flex;
@@ -29,6 +31,7 @@ html {
     align-items: center;
     margin: 0 8rem;
 }
+
 #wrapper .container nav ul{
     display: flex;
     flex-direction: row;
@@ -41,7 +44,6 @@ html {
 #wrapper .container nav .logo{
     width: 18rem;
 }
-
 #wrapper .container nav .logo:hover{
     transform: scale(1.15);
     transition: 1s;
@@ -73,7 +75,6 @@ ul > li:nth-child(1){
     font-size: 1.5rem;
 
 }
-
 .btn1:hover{
     background-color: #034310;
     transform: scale(1.05);
@@ -98,18 +99,15 @@ main{
     gap: 4rem;
 }
 
-
 .team-img{
     width: 57rem;
     height: 34rem;
 }
-
 .pic{
     border-radius: 20px;
     overflow: hidden;
     object-fit: cover;
 }
-
 
 .pic:hover{
     transform: scale(1.03);
@@ -122,6 +120,11 @@ main{
     margin-bottom: 1.5rem;
     color: #027319;
 }
+/* .line{
+    width: 21.5rem;
+    height: 2px;
+    background-color: #015912;
+} */
 
 .para{
     font-size: 2rem;
@@ -173,7 +176,6 @@ footer{
     align-items: flex-start;
     gap: 2rem;
 }
-
 .anchor{
     font-size: 1.9rem;
     font-weight: 600;
@@ -231,8 +233,6 @@ footer{
     align-items: center;
     border-radius: 50%;
 }
-
-
 .social-media:hover{
     background-color: #022a0a;
     transform: scale(1.05);
@@ -244,9 +244,6 @@ footer{
     transform: scale(1.08);
     transition: 0.8s;
 }
-
 .second-div{
     width: fit-content;
 }
-
-
