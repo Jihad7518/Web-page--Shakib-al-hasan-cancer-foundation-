@@ -233,3 +233,9 @@ footer{
 }
 
 
+.social-media:hover{
+    background-color: #022a0a;
+    transform: scale(1.05);
+    transition: 0.7s;
+}
+
