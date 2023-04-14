@@ -239,3 +239,9 @@ footer{
     transition: 0.7s;
 }
 
+.anchor:hover{
+    color: #022a0a;
+    transform: scale(1.08);
+    transition: 0.8s;
+}
+
