@@ -222,4 +222,14 @@ footer{
     gap: 2rem;
 }
 
+.social-media{
+    background-color: #027319;
+    display: flex;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
 
